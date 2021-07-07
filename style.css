@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+#video {
+    height: 500px;
+    width: 100%;
+}
+.announcement {
+ background-color: azure;
+}
